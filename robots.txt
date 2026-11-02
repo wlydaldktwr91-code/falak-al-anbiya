@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wlydaldktwr91-code.github.io/falak-al-anbiya/sitemap.xml
